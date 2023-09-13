@@ -7,7 +7,7 @@
 - Proposal presentation on `Oct. 26th` (tentatively)
 - Final project report on `Dec. 21th` (tentatively)
 
-## Interactive poll
+## Interactive feedback
 - [Poll link](https://forms.gle/9G8ZT3BfhHmj4wnv6)
 - [Response](https://docs.google.com/forms/d/1edoG4XJaAgARrq9S4artlCjaQW-f0nmntYyLhBfoi68/edit#responses)
 
