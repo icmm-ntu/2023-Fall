@@ -3,15 +3,18 @@
 
 ## Final project timeline
 
-- Pick up your project topic by `Oct. 5th` 
+- Pick up your project topic by `Oct. 5th`
+  -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)   
 - Proposal presentation on `Oct. 26th` (tentatively)
 - Final project report on `Dec. 21th` (tentatively)
+
+
 
 ## Interactive feedback
 - [Poll link](https://forms.gle/9G8ZT3BfhHmj4wnv6)
 - [Response](https://docs.google.com/forms/d/1edoG4XJaAgARrq9S4artlCjaQW-f0nmntYyLhBfoi68/edit#responses)
-- 
-##    [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)  
+
+
 
 
 
