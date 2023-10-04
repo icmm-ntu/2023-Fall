@@ -5,8 +5,8 @@
 
 - Pick up your project topic by `Oct. 5th`
   -   [`Final project group list`](https://docs.google.com/spreadsheets/d/1RG6qqq0jFPrRBsApseZqcwsO5BIPCLq3vC9epwKlP5I/edit?usp=sharing)   
-- Proposal presentation on `Oct. 26th` (tentatively)
-- Final project report on `Dec. 21th` (tentatively)
+- Proposal presentation on `Oct. 26th`
+- Final project report on `Dec. 21th`
 
 
 
