@@ -1,0 +1,2 @@
+#   N_tot	    N_in	   N_out	   Ratio
+     100	      79	      21	   0.790
